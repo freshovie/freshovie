@@ -31,13 +31,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=freshovie&show_icons=true&locale=en" alt="freshovie" /></p>
 
-<br clear="both">
-
-###
-
-
-<br clear="both">
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=freshovie&" alt="freshovie" /></p>
+
 
 
